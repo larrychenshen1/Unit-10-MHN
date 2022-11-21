@@ -15,7 +15,9 @@ a malware catching honeypot, like the venus fly trap
 MHN-Admin stores data captured in MongoDB, a NoSQL database. <br>
 CRUD operations apply to traditional relational database management systems (such as PostgreSQL or SQL Server) and the more recent NoSQL databases MongoDB or DynamoDB
 
-**Export honeypot data**
+**Export Honeypot Logs**
+
+See ```session-3.json``` file (truncated to 5MB from original session.json 121MB file)
 
 Detailed logs can be exported from honeypot to parse. Data sets include source IP, protocol, timestamp, etc. <br>
 Sample log entry below: 
