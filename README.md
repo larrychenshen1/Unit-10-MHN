@@ -32,7 +32,7 @@ Ubuntu - wordpot: Wordpress honeypot that attracts/detects probes for possible W
 
 Trojan.Win32.Wanna.epxkni <br>
 - detected by MHN Dionaea honeypot <br>
-- WannaCry ransonware uses the infamous NSA EternalBlue zero day crack in Windows Server Message Block (SMB) on Windows 7 SP1 hosts. NSA first detected this vuln but did not annouce to Microsoft to patch and eventually was this vuln was leaked when NSA was cracked themselves by the Shadow Brokers. <br>
+- WannaCry ransonware uses the infamous NSA EternalBlue zero day crack in Windows Server Message Block (SMB) on Windows 7 SP1 hosts. NSA first detected this vuln but saved it for themselves and did not annouce to Microsoft to patch. Eventually the Shadow Brokers cracked into NSA and leaked it anyways. <br>
 - MD5 Hash: d25171479677bde36fba4f25c44bd851 <br>
 - SHA512 Hash: 68e99dcbbc22703ff2c2f11c1dd9fece52ac2283e9dadc94c1afeab2af9bf96a4a5f1203afbaea090b67d020a08e7d88b30a3b475194fbf173d4f3f582256797
 
